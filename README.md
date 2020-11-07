@@ -1,0 +1,2 @@
+# JavaWeb-BookMarket
+本项目参考尚硅谷的JavaWeb项目——书城设计，该项目的练习对于JavaWeb的技术栈可以有一个很好的理解与帮助
